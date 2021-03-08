@@ -7,7 +7,6 @@ def twoSum(nums, target):
                 return [i, i2]
             else:
                 i2 += 1
-                continue
         else:
             i += 1
     else:
