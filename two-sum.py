@@ -1,7 +1,7 @@
 def twoSum(nums, target):
     i = 0
     for num in nums:
-        i2 = i+1
+        i2 = i + 1
         for num2 in nums[i2:]:
             if num + num2 == target:
                 return [i, i2]
