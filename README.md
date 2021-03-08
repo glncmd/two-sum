@@ -1,5 +1,5 @@
 # two-sum
-A small Python project where given an array of integers (nums) and an integer (target), return indices of the two numbers such that they add up to target
+A small Python project where: given an array of integers (nums) and an integer (target), return indices of the two numbers such that they add up to target
 
 Assume that each input would have exactly one solution, and the same element cannot be used twice.
 
